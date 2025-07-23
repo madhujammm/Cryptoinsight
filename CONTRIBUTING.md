@@ -129,8 +129,3 @@ Feel free to open an issue or drop a discussion — we’re here to help!
 
 CryptoInsight is only possible thanks to awesome folks like you.
 Let’s make crypto more transparent, fun, and user-friendly — together. 🌍💸
-
-```
-Save this as `CONTRIBUTING.md` in the root of your project.
-
-```
